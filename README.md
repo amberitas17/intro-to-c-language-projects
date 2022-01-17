@@ -1,2 +1,6 @@
 # intro-to-c-language-projects
 Intro to C Language Projects and Assignments
+
+This is my assignments and projects in Introduction to Programming subject in my college major... It contains some real to life outputs...
+
+>Note: My applications in Introduction to Programming were not as smooth as possible because we were limited based on the experience and the discussion of the topic... I am always welcome for criticisms... 
